@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b53bfbe-7b55-4c19-9374-134157ee7c85" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/Miles2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BonusMilesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BonusMilesService.java" afterDir="false" />
-    </list>
+    <list default="true" id="6b53bfbe-7b55-4c19-9374-134157ee7c85" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654910162494</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1655029077465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655029077465</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1655029272712</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655029272714</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
